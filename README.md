@@ -1,0 +1,2 @@
+# Generator Static Sites
+
